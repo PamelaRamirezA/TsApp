@@ -1,0 +1,25 @@
+{
+  "name": "tsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PamelaRamirezA/TsApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PamelaRamirezA/TsApp/issues"
+  },
+  "homepage": "https://github.com/PamelaRamirezA/TsApp#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.3.0",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
+}
